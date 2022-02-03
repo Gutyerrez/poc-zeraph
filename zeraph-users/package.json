@@ -1,0 +1,14 @@
+{
+  "name": "@vyrnn/zeraph-exceptions",
+  "version": "0.0.1-ALPHA",
+  "author": "Vinícius Gutierrez <srgutyerrez@gmail.com>",
+  "scripts": {
+    "dev": "ts-node-dev src/Application.ts"
+  },
+  "dependencies": {
+    "@vyrnn/zeraph-core": "link:../zeraph-core"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
