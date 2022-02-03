@@ -6,3 +6,5 @@ export class ApplicationAlreadyPreparedException extends Exception {
     message: string
   ) { super(status, message); }
 }
+
+export * from '@vyrnn/zeraph-exceptions'
