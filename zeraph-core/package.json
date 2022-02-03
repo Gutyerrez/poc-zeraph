@@ -2,7 +2,8 @@
   "name": "@vyrnn/zeraph-core",
   "version": "0.0.1-ALPHA",
   "author": "Vinícius Gutierrez <srgutyerrez@gmail.com>",
-  "index": "dist/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
   },
